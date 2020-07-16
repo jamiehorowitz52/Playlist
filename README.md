@@ -25,11 +25,6 @@ struct LNode {
 };
 ```
 
-In Java you will have similar code put into `LList` and `LNode` classes.  You **may not** change the fields defined in the classes/structs.
-
->*Deadlines:*
->  - Algorithm Psuedocode due 10/20 (preferably earlier)
->  - Complete project due 10/27
 
 ## Phase 1: Algorithms
 Before writing your code you must prepare pseudo code algorithms for each of the different functions. You must submit these in your repository [Algorithms/README.md](Algorithms/README.md) file **by Sunday 10/20/19 at 11:00PM**. You are encouraged to submit much sooner so that you can make progress on your coding -- if you submit sooner, you will get feedback sooner! Keep in mind that your algorithms should be language agnostic since you will be using this for both C and Java.
